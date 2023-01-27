@@ -1,4 +1,4 @@
-# Problema del Viajero comparando Recocido Simulado y Fuerza Bruta
+# Problema del agente viajero comparando Recocido Simulado y Fuerza Bruta
 
 El código de Matlab compara el rendimiento entre el método de Recocido Simulado y el de Fuerza Bruta para determinar la ruta más corta entre diferentes puntos. En este caso se usan 32 ciudades de México para evaluar.
 
